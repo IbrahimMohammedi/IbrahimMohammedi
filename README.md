@@ -42,14 +42,6 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
 
 ---
 
-## 📊 GitHub Stats
-
-- [Repositories](https://github.com/IbrahimMohammedi?tab=repositories)
-- [Followers](https://github.com/IbrahimMohammedi?tab=followers)
-- [Following](https://github.com/IbrahimMohammedi?tab=following)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimMohammedi/IbrahimMohammedi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IbrahimMohammedi/IbrahimMohammedi/output/pacman-contribution-graph.svg">
