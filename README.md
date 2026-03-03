@@ -25,7 +25,7 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
 ---
 
 ### Cloud, DevOps & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=git,gcp,aws,kubernetes,docker,githubactions,nginx,grafana,prometheus,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gcp,aws,kubernetes,docker,githubactions,nginx,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
 
 ---
@@ -49,19 +49,7 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IbrahimMohammedi&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohammedi&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbrahimMohammedi&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -86,4 +74,3 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" />
   </a>
 </p>
-
