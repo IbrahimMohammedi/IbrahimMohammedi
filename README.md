@@ -44,13 +44,9 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMohammedi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohammedi&theme=dark&hide_border=true&layout=compact" />
-</p>
+- [Repositories](https://github.com/IbrahimMohammedi?tab=repositories)
+- [Followers](https://github.com/IbrahimMohammedi?tab=followers)
+- [Following](https://github.com/IbrahimMohammedi?tab=following)
 
 ---
 
