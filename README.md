@@ -32,16 +32,6 @@ I'm **Ibrahim Mohammedi**, a **Backend Engineer** passionate about building scal
 
 </span>
 
----
-
-## 🧩 Current Focus
-
-- 🏗️ Building a **modern Twitter clone** using **Go microservices**  
-- 🌍 Learning **AWS** and **Kubernetes**  
-- 🤝 Looking to contribute to **open-source Go projects**
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimMohammedi/IbrahimMohammedi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IbrahimMohammedi/IbrahimMohammedi/output/pacman-contribution-graph.svg">
